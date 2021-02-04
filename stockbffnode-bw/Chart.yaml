@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: stockbffnode-bw
+description: Chart to configure ArgoCD with the stockbffnode-bw project and its applications

@@ -1,0 +1,3 @@
+global: {}
+typescript-image-certification:
+  replicaCount: 1

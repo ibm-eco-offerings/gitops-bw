@@ -1,5 +1,4 @@
 dependencies:
   - name: template-java-spring-test
     version: 0.0.1
-    repository: >-
-      http://artifactory-artifactory.tools:8082/artifactory/generic-local/isv-scenarios
+    repository: http://artifactory-artifactory.tools:8082/artifactory/generic-local/isv-scenarios

@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: template-java-spring
+description: Chart to configure ArgoCD with the template-java-spring project and its applications
